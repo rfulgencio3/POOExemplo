@@ -19,6 +19,5 @@ namespace POOExemplo.Entidades.Concreto
         {
             base.Apresentacao();
         }
-
     }
 }
